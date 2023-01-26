@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(1, 1, 86);
+}
+
+button {
+    color: rgb(1, 1, 86);
+    background: white;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
+
+img:hover{
+    transform: scale(1.1);
+    border: 3px solid rgb(1, 1, 86);
+}
